@@ -6,7 +6,7 @@
 
  se estiver algo de errado, desculpa
 
- estou usando muito o git Hubble
+ estou usando muito o git Hub
 
  quero fazer vários projetos
  
